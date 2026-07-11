@@ -30,7 +30,7 @@ drivers.sort()
 # ---------------------------------------------------------
 st.set_page_config(page_title="F1 Strategy Predictor", layout="centered")
 
-st.title("F1 Lap Time & Degradation Predictor")
+st.title("F1 Lap Time Predictor")
 
 col1, col2 = st.columns(2)
 
